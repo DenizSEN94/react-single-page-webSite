@@ -1,0 +1,11 @@
+import "./brand.css";
+
+const Brand = () => {
+    return(
+        <>
+            Brand
+        </>
+    );
+};
+
+export default Brand;
